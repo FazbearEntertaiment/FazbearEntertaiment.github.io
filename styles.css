@@ -1,3 +1,11 @@
 header.top {
-    background-color: darkorange;
+    background-image: url(./images/header.jpg);
+    -webkit-background-size: auto;
+    -moz-background-size: auto;
+    -o-background-size: auto;
+    background-size: 100%;
+}
+
+header.content {
+    background-color: #807e7c;
 }
